@@ -19,7 +19,7 @@ It focuses on **revenue trends, profit margins, operating expenses, and other ke
 - **Chevron had the lowest debt-equity ratio, indicating stronger financial capability.**  
 
 ## Dashboard Overview
-![Dashboard Screenshot](desktop/dashboard.png)  
+![Dashboard Screenshot](https://github.com/dorischioma/oil-giants-financial-analysis/raw/main/dashboard.png/)
 *(Add key visuals from your analysis here.)*
 
 ## Next Steps

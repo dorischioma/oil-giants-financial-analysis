@@ -2,8 +2,8 @@
 ### Comparative Analysis of ExxonMobil, Shell & Chevron
 
 ## Overview
-This project analyzes and compares the financial performance of **ExxonMobil, Shell, and Chevron** over 2021 and 2023.  
-It focuses on **revenue trends, profit margins, operating expenses, and other key financial metrics**.
+This project analyzes and compares the financial performance of **ExxonMobil, Shell, and Chevron** over 2021 to 2023.  
+It focuses on **revenue trends, net profit margins, return on assets, and other key financial metrics**.
 
 ## Data Sources
 - [ExxonMobil Financial Report](https://www.sec.gov/)  
@@ -19,8 +19,20 @@ It focuses on **revenue trends, profit margins, operating expenses, and other ke
 - **Chevron had the lowest debt-equity ratio, indicating stronger financial capability.**  
 
 ## Dashboard Overview
+Here is a financial dashboard summarizing key insights:
 ![Dashboard Screenshot](https://github.com/dorischioma/oil-giants-financial-analysis/raw/main/dashboard.png/)
-*(Add key visuals from your analysis here.)*
+
+## Debt_Equity_Ratio
+Below is the debt-equity-ratio for ExxonMobil, Shell, and Chevron:
+
+![debt-equity Chart](debt-equity Chartchart.png)
+
+## 📊 Net Profit Margin Analysis
+Below is a net profit margin trend comparison for ExxonMobil, Shell, and Chevron.
+Chevron had the highest net profit margin in 2022:
+
+![Net Profit Margin](profit_margin.png)
+
 
 ## Next Steps
 - Expand analysis with **2023 data**.  

@@ -18,14 +18,9 @@ It focuses on **revenue trends, profit margins, operating expenses, and other ke
 - **Shell return on assests fluctuated but its overall performance remained competitive.**  
 - **Chevron had the lowest debt-equity ratio, indicating stronger financial capability.**  
 
-## Dashboard & Visuals
-![Dashboard Screenshot](images/dashboard.png)  
+## Dashboard Overview
+![Dashboard Screenshot](desktop/dashboard.png)  
 *(Add key visuals from your analysis here.)*
-
-## How to Use This Report
-1. Download the **Excel file** from the `data/` folder.  
-2. Open the **Power BI file** (if available) to explore interactive visuals.  
-3. Review the **README** for key insights.  
 
 ## Next Steps
 - Expand analysis with **2023 data**.  

@@ -13,7 +13,7 @@ It focuses on **revenue trends, net profit margins, return on assets, and other 
 - [Chevron Financial Report](https://www.chevron.com/)
 
 **Files Used**
-   - `Oil_Giants_Financial_Analysis.xlsx` (Financial data for ExxonMobil, Shell, and Chevron)
+   - `Oil_Giants_Financial_analysis.xlsx` (Financial data for ExxonMobil, Shell, and Chevron)
   - `dashboard.png` (Visualization of key insights)
 
 ## Key Questions Answered  
@@ -48,7 +48,7 @@ Chevron had the highest net profit margin in 2022:
 
 ## How to Use This Repo  
 1. **Download the dataset** from this repository.  
-2. **Open `Oil_Giants_Financial_Analysis.xlsx`** in Excel to explore raw data.  
+2. **Open `Oil_Giants_Financial_analysis.xlsx`** in Excel to explore raw data.  
 3. **View the dashboard** to see visualized insights.  
 
 ## Contact  

@@ -37,13 +37,13 @@ Here is a financial dashboard summarizing key insights:
 ## Debt_Equity_Ratio
 Below is the debt-equity-ratio for ExxonMobil, Shell, and Chevron:
 
-![debt-equity Chart](debt-equity Chartchart.png)
+![debt-equity Chart](https://github.com/dorischioma/oil-giants-financial-analysis/blob/main/DEBT%20TO%20EQUITY.png)
 
 ## 📊 Net Profit Margin Analysis
 Below is a net profit margin trend comparison for ExxonMobil, Shell, and Chevron.
 Chevron had the highest net profit margin in 2022:
 
-![Net Profit Margin](profit_margin.png)
+![Net Profit Margin](https://github.com/dorischioma/oil-giants-financial-analysis/blob/main/NET%20PROFIT%20MARGIN.png)
 
 
 ## How to Use This Repo  

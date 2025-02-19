@@ -1,8 +1,6 @@
 # Oil Giants Financial Analysis (2021-2023)
 ### Comparative Analysis of ExxonMobil, Shell & Chevron
 
-Table Of Content:
-
 ## Overview
 This project analyzes and compares the financial performance of **ExxonMobil, Shell, and Chevron** over 2021 to 2023.  
 It focuses on **revenue trends, net profit margins, return on assets, and other key financial metrics**.

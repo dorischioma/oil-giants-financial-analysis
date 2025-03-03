@@ -7,65 +7,81 @@ The insight will help oil and gas excutives & decision makers compare their comp
 
 
 ## Data Sources
-For this analysis, i downloaded the 10-k annual report pdf file for ExxonMobil from [ExxonMobil Financial Report](https://www.sec.gov/), i also downloaded the 10-k annual report for Shell from [Shell Financial Report](https://www.shell.com/) and Chevron [Chevron Financial Report](https://www.chevron.com/). 
+For this analysis, i downloaded the 10-k annual report PDF file for ExxonMobil from [ExxonMobil Financial Report](https://www.sec.gov/), i also downloaded the 10-k annual report for Shell from [Shell Financial Report](https://www.shell.com/) and Chevron [Chevron Financial Report](https://www.chevron.com/). 
 
 ## Tools Used
-- **Excel** – (pivot table, charts and formulas)
+- **Excel tools/Techniques**
+- Pivot Tables- Used to summarize financial data.
+- Charts and Visual- Created bar charts and line charts.
+- Formulars and calculations.
 
 ## Data Cleaning/Organizing
 In a new workbook, i created a new table and inputed this metrics: Total Revenue, Net Income, Total Assets, Total Equity, Total Liabilities, Current Assets, 
 Current Liabilities, Operating Cash Flow, Capital Expenditures, Inventory.
 I ensured that i collected the accurate values from each company and i organized them in a new table.
+
+## Key Questions
+- Which company is the most profitable?
+- Who manages costs and assets best?
+- Who is taking on the most debt to fund operations?
   
 ## Key Insights
  ### Profitability Ratio: How profitable are these companies?
  **Net Profit Margin(%):**
   - 2021 - ExxonMobil: 8.06% | Shell: 7.4% | Chevron: 9.6%
   - 2022 - ExxonMobil: 13.5% | Shell: 11%% | Chevron: 14.4%
-  - 2023 - ExxonMobil: 10.5% | Shell: 5.99% | Chevron: 10.6%
+  - 2023 - ExxonMobil: 10.5% | Shell: 5.99% | Chevron: 10.6% 
+   
 ExxonMobil and Chevron have consistently had a high net profit since 2021-2022, but saw a slight drop in 2023, but they still reflect strong profitability and efficient cost management.
 Meanwhile Shell also saw a decline in net profit margin after 2022, although they tried to maintain good profitability.
 
- **Return on Assets (ROA) (%)**
+ **Return on Assets (ROA) (%):**
   - 2022 - ExxonMobil: 15.1% | Shell: 9.6%% | Chevron: 13.8%
-  - 2023 - ExxonMobil: 9.6% | Shell: 8.2% | Chevron: 10.6%
+  - 2023 - ExxonMobil: 9.6% | Shell: 8.2% | Chevron: 10.6% 
+    
 ExxonMobil had the highest efficiency in 2022 but they saw a slight decline in 2023 and still they showcased a strong performance and efficient assest utilization, While Chevron have consistently had high efficiency. Shell on the other-hand, though slightly lower than the other companies, still showcased a strong performance and efficient assest utilization. 
 
-**Return on Equity (ROE) (%)**
+**Return on Equity (ROE) (%):**
   - 2022 - ExxonMobil: 27.5% | Shell: 22%% | Chevron: 22.1%
-  - 2023 - ExxonMobil: 16.9% | Shell: 10.3% | Chevron: 13.2%
+  - 2023 - ExxonMobil: 16.9% | Shell: 10.3% | Chevron: 13.2% 
+   
 In 2022, these oil and gas gaints had an exceptional ROE, indicating high returns for it's shareholders. While in 2023, ExxonMobil and Chevron had an ROE of 16.9% and 13.2% respectively, which is still considered high and reflects strong profitablity and efficient use of equity, On the other-hand Shell had a moderate ROE in 2023, which means that the company is generating a reasonable return for it's shareholders but may not be operating at peak efficiency.      
 
 ### Liquidity Ratio: Can They Handle Short-Term Financial Pressure?
 **Current Ratio:**
   - 2022 - ExxonMobil: 1.41 | Shell: 1.36 | Chevron: 1.47
-  - 2023 - ExxonMobil: 1.48 | Shell: 1.40 | Chevron: 1.27
+  - 2023 - ExxonMobil: 1.48 | Shell: 1.40 | Chevron: 1.27 
+   
 Between 2022 - 2023, these oil and gas giants have consistently had a high current ratio indicating a sufficient short-term assests to cover short-term liabilities.
 
 **Quick Ratio:**
   - 2022 - ExxonMobil: 1.12 | Shell: 1.10 | Chevron: 1.27
-  - 2023 - ExxonMobil: 1.16 | Shell: 1.13 | Chevron: 1.02
+  - 2023 - ExxonMobil: 1.16 | Shell: 1.13 | Chevron: 1.02 
+   
 Between 2022 - 2023, these oil and gas giants have consistently had a high quick ratio indicating a sufficient liquid assests to cover it's short-term liabilities without relying on selling inventories.
 
 ### Debt Ratios: Who Has the Biggest Debt Burden?
 **Debt to equity:**
   - 2022 - ExxonMobil: 0.82 | Shell: 1.30 | Chevron: 0.61
   - 2023 - ExxonMobil: 0.77 | Shell: 1.16 | Chevron: 0.62
-Chevron has a low risk debt-to-equity-ratio of 0.61 - 0.62 between 2022 to 2023, indicating that in 2023 the company has $0.62 in debt for every $1 of equity. This means that the company is conservatively financed, with a greater reliance on equity than debt.
+   
+Chevron has a low risk debt-to-equity-ratio of 0.61 - 0.62 
+Between 2022 to 2023, indicating that in 2023 the company has $0.62 in debt for every $1 of equity. This means that the company is conservatively financed, with a greater reliance on equity than debt. \
 ExxonMobil has consistently balanced it's debt-to-equity-ratio for 2022 and 2023 respectively, to finance it's operations. Indicating a healthy leverage.
 Meanwhile, Shell has had a high debt-to-equity-ratio, indicating that the company is reliant on debt financing, which can amplify returns during high oil prices but can increase financial risk during downturns.
-
-## Excel Techniques
-- Pivot Tables- Used to summarize financial data.
-- Charts and Visual- Created bar charts and line charts.
-- Formulars and calculations- Used SUM & AVERAGE.
 
 ## Dashboard Overview
 Here is a financial dashboard summarizing key insights:
 ![Dashboard Screenshot](https://github.com/dorischioma/oil-giants-financial-analysis/raw/main/dashboard.png/)
 
-## RECOMMENDATION
+## Conclusion
+- Chevron is the most profitable and very efficient, showing strong financial ratio and low debt levels.
+- ExxonMobil managed cost and assest well, which led to high profitablity. 
+- Shell managed short-term financial pressure well, but they took on the most debt to fund operations.
 
+## Recommendations
+- Shell needs to improve profitability to march it's competitors 
+- Shell should also reduce it's debt reliance to improve financial stability.
 
 ## How to Use This Repo  
 1. **Download the dataset** from this repository.  

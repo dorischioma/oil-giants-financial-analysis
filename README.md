@@ -38,17 +38,22 @@ In 2022, these oil and gas gaints had an exceptional ROE, indicating high return
 
 ### Liquidity Ratio: Can They Handle Short-Term Financial Pressure?
 **Current Ratio:**
-  - 2022 - ExxonMobil: 1.41% | Shell: 1.36%% | Chevron: 1.47%
-  - 2023 - ExxonMobil: 1.48% | Shell: 1.40% | Chevron: 1.27%
+  - 2022 - ExxonMobil: 1.41 | Shell: 1.36 | Chevron: 1.47
+  - 2023 - ExxonMobil: 1.48 | Shell: 1.40 | Chevron: 1.27
 Between 2022 - 2023, these oil and gas giants have consistently had a high current ratio indicating a sufficient short-term assests to cover short-term liabilities.
 
 **Quick Ratio:**
-  - 2022 - ExxonMobil: 1.12% | Shell: 1.10%% | Chevron: 1.27%
-  - 2023 - ExxonMobil: 1.16% | Shell: 1.13% | Chevron: 1.02%
+  - 2022 - ExxonMobil: 1.12 | Shell: 1.10 | Chevron: 1.27
+  - 2023 - ExxonMobil: 1.16 | Shell: 1.13 | Chevron: 1.02
 Between 2022 - 2023, these oil and gas giants have consistently had a high quick ratio indicating a sufficient liquid assests to cover it's short-term liabilities without relying on selling inventories.
 
 ### Debt Ratios: Who Has the Biggest Debt Burden?
-**Debt to eqity** 
+**Debt to equity:**
+  - 2022 - ExxonMobil: 0.82 | Shell: 1.30 | Chevron: 0.61
+  - 2023 - ExxonMobil: 0.77 | Shell: 1.16 | Chevron: 0.62
+Chevron has a low risk debt-to-equity-ratio of 0.61 - 0.62 between 2022 to 2023, indicating that in 2023 the company has $0.62 in debt for every $1 of equity. This means that the company is conservatively financed, with a greater reliance on equity than debt.
+ExxonMobil has consistently balanced it's debt-to-equity-ratio for 2022 and 2023 respectively, to finance it's operations. Indicating a healthy leverage.
+Meanwhile, Shell has had a high debt-to-equity-ratio, indicating that the company is reliant on debt financing, which can amplify returns during high oil prices but can increase financial risk during downturns.
 
 ## Excel Techniques
 - Pivot Tables- Used to summarize financial data.

@@ -85,7 +85,7 @@ Here is a financial dashboard summarizing key insights:
 
 ## How to Use This Repo  
 1. **Download the dataset** from this repository.  
-2. **Open `Oil_Giants_Financial_analysis.xlsx`** in Excel to explore raw data.  
+2. **Open `Oil_Giants_Financial_analysis..xlsx`** in Excel to explore raw data.  
 3. **View the dashboard** to see visualized insights.  
 
 ## Contact  

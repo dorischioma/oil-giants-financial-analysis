@@ -49,7 +49,7 @@ ExxonMobil had the highest efficiency in 2022 but they saw a slight decline in 2
  ![ROE %](https://github.com/dorischioma/oil-giants-financial-analysis/blob/main/ROE%20%25.png/)   
   
    
-In 2022, these oil and gas gaints had an exceptional ROE, indicating high returns for it's shareholders. While in 2023, ExxonMobil and Chevron had an ROE of 16.9% and 13.2% respectively, which is still considered high and reflects strong profitablity and efficient use of equity, On the other-hand Shell had a moderate ROE in 2023, which means that the company is generating a reasonable return for it's shareholders but may not be operating at peak efficiency.      
+In 2022, these oil and gas gaints had an exceptional ROE, indicating high returns for it's shareholders. While in 2023, ExxonMobil declined sharply,ExxonMobil and Chevron had an ROE of 16.9% and 13.2% respectively, which is still considered high and reflects strong profitablity and efficient use of equity, On the other-hand Shell had a moderate ROE in 2023, which means that the company is generating a reasonable return for it's shareholders but may not be operating at peak efficiency.      
 
 ### Liquidity Ratio: Can They Handle Short-Term Financial Pressure?
 **Current Ratio:**
@@ -86,7 +86,7 @@ Here is a financial dashboard summarizing key insights:
 
 ## Conclusion
 - Overall, Chevron's combination of strong profitability, operational efficiency, and financial stability makes it the top performer in this comparative analysis. Its strategic financial management ensures steady growth while minimizing risk, making it the most resilient among ExxonMobil and Shell.
-- Overall, ExxonMobil’s financial performance reflects a well-balanced approach between profitability, cost efficiency, and financial leverage. Its ability to generate steady profits, manage costs effectively, and maintain financial stability positions it as a strong and competitive player in the oil & gas industry. 
+- Overall, ExxonMobil has a better liqudity, it's financial performance reflects a well-balanced approach between profitability, cost efficiency, and financial leverage. Its ability to generate steady profits, manage costs effectively, and maintain financial stability positions it as a strong and competitive player in the oil & gas industry. 
 - While Shell benefits from strong liquidity management, its high debt burden poses financial risks. To remain competitive and improve long-term stability, the company should focus on reducing debt reliance, improving profitability, and optimizing cost efficiency to match the performance of its competitors..
 
 ## Recommendations

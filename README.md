@@ -85,13 +85,16 @@ Here is a financial dashboard summarizing key insights:
 ![Dashboard Screenshot](https://github.com/dorischioma/oil-giants-financial-analysis/raw/main/dashboard.png/)
 
 ## Conclusion
-- Chevron is the most profitable and very efficient, showing strong financial ratio and low debt levels.
-- ExxonMobil managed cost and assest well, which led to high profitablity. 
-- Shell managed short-term financial pressure well, but they took on the most debt to fund operations.
+- Overall, Chevron's combination of strong profitability, operational efficiency, and financial stability makes it the top performer in this comparative analysis. Its strategic financial management ensures steady growth while minimizing risk, making it the most resilient among ExxonMobil and Shell.
+- Overall, ExxonMobil’s financial performance reflects a well-balanced approach between profitability, cost efficiency, and financial leverage. Its ability to generate steady profits, manage costs effectively, and maintain financial stability positions it as a strong and competitive player in the oil & gas industry. 
+- While Shell benefits from strong liquidity management, its high debt burden poses financial risks. To remain competitive and improve long-term stability, the company should focus on reducing debt reliance, improving profitability, and optimizing cost efficiency to match the performance of its competitors..
 
 ## Recommendations
-- Shell needs to improve profitability to march it's competitors 
-- Shell should also reduce it's debt reliance to improve financial stability.
+- Shell has the potential to remain a strong competitor in the oil & gas industry, but it must improve profitability, reduce financial risk, and optimize operational efficiency to match the financial resilience of Chevron and ExxonMobil. Implementing these strategies will enhance long-term financial sustainability and investor confidence.
+- By optimizing asset utilization, investing in high-value opportunities, and maintaining cost efficiency, ExxonMobil can strengthen its market leadership, profitability, and long-term financial stability.
+- By staying financially conservative while expanding strategic investments, Chevron can maintain its financial resilience, long-term market leadership, and adaptability in an evolving energy landscape.
+
+
 
 ## How to Use This Repo  
 1. **Download the dataset** from this repository.  
